@@ -1,0 +1,8 @@
+sdwc_examples.example:
+  path: '/sdwc-examples/example'
+  defaults:
+    _title: 'Example'
+    _controller: '\Drupal\sdwc_examples\Controller\SdwcExamplesController::build'
+  requirements:
+    _permission: 'access content'
+

@@ -1,0 +1,5 @@
+name: sdwc_examples
+type: module
+description: Single Directory Web Component Examples
+package: Custom
+core_version_requirement: ^9 || ^10
